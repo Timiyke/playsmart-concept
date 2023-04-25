@@ -1,2 +1,1 @@
-# zoomapp
-Zoom desktop software created with HTML5 CSS3
+Playsmart website made with HTML5,CSS3 and JS
